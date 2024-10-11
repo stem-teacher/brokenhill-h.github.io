@@ -8,6 +8,6 @@ toc: true
 ---
 The Training Workbook serves as a comprehensive guide for students and team members to develop the skills needed to participate effectively in the software engineering process. It includes tutorials, best practices, and hands-on exercises covering essential topics such as requirements specification, design principles, coding standards, testing methodologies, and deployment processes.
 
-1. [GitHub Skills](https://skills.github.com)
-1. [System Requirements Specification](/workbooks/training/srs/)
-1. [Test](/workbooks/training/test/)
+1. [Introduction to System Requirements Specification](/workbooks/training/srs/)
+1. [Introduction to Software Testing](/workbooks/training/test/)
+1. [Lesson Plans](https://skills.github.com)

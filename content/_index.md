@@ -19,6 +19,11 @@ Our software engineering course covers a diverse range of topics to build a stro
 - **Year 12:** Advanced software design, project management, secure programming practices, and developing comprehensive software solutions.
 
 Each topic is designed to be hands-on and project-based, ensuring you gain practical experience alongside theoretical knowledge.
+### Training
+{{< cards >}}
+  {{< card link="/workbooks/training/srs/" title="SRS Training" icon="book-open" >}}
+  {{< card link="/workbooks/training/test/" title="Test Training" icon="book-open" >}}
+{{< /cards >}}
 
 #### **Explore Our Resources**
 
@@ -41,5 +46,4 @@ Take your first steps into the world of software engineering with us! Click on t
 ## Explore
 {{< cards >}}
   {{< card link="workbooks" title="Workbooks" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
