@@ -10,4 +10,4 @@ The Training Workbook serves as a comprehensive guide for students and team memb
 
 1. [Introduction to System Requirements Specification](/workbooks/training/srs/)
 1. [Introduction to Software Testing](/workbooks/training/test/)
-1. [Lesson Plans](https://skills.github.com)
+1. [Lesson Plans](/workbooks/training/lesson-plans/)

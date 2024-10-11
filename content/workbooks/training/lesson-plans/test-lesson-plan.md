@@ -2,7 +2,7 @@
 title: "Lesson Plan: Introduction to Software Testing"
 draft: false
 images: []
-weight: 5
+weight: 3
 toc: true
 ---
 ## Overview
@@ -12,7 +12,7 @@ toc: true
 **Unit of Work:** Programming Fundamentals
 **Lesson Topic:** Introduction to Software Testing **Lesson Length:** 60 mins
 
-**Lesson Begins / End:** 9:05:10:05 **Class Size:** 20
+**Lesson Begins / End:** 13:05:14:05 **Class Size:** 20
 
 ## Syllabus Outcomes
 1. **SE-11-01**: Describes methods used to plan, develop and engineer software solutions
@@ -66,7 +66,7 @@ The class consists of main stream Y11 students. Bright and enthusasistic, but ot
 ## Equipment/Resources
 - [Presentation pack](/workbooks/training/test/bhhs-test.pptx)
 - Students have access to a computer and are logged into GitHub.
-- Prepared [software engineering site](https://brokenhill-h.polemos.ai/)
+- Prepared [Software Engineering Site](https://brokenhill-h.polemos.ai/)
 - [**GitHub**](https://github.com/stem-teacher/brokenhill-h.github.io): A version control platform where students will store their Test documents.
 - **Exercise:** Refer to the [Test Exercise](/workbooks/training/test/bhhs-test-exercise).
 - Presentation slides on software testing concepts.

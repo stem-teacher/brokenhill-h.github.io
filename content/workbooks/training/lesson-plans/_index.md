@@ -3,7 +3,7 @@ title: "Lesson Plans"
 description: "Lesson Plans for Software Engineering Year 11-12 (NESA 11345, 15365)"
 draft: false
 images: []
-weight: 5
+weight: 1
 toc: true
 ---
 The following lesson plans are available:

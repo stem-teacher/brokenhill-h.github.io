@@ -2,7 +2,7 @@
 title: "Lesson Plan: Introduction to System Requirements Specification (SRS)"
 draft: false
 images: []
-weight: 5
+weight: 2
 toc: true
 ---
 ## Overview
